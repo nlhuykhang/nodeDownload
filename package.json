@@ -1,0 +1,11 @@
+{
+  "name": "nodeDownload",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "fs": "0.0.2",
+    "http": "0.0.0"
+  }
+}
